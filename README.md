@@ -35,6 +35,6 @@ Atualmente, estudo na Trybe e faço faculdade de Sistemas para Internet, onde ap
 
 <div align="center">
   <a href="https://github.com/flavianna">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavianna&show_icons=true&hide_border=true&text_color=38B2AC&title_color=ED5659&bg_color=0D1017&icon_color=38B2AC&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavianna&layout=compact&langs_count=7&hide_border=true&text_color=38B2AC&title_color=ED5659&bg_color=0D1017&icon_color=ED5659"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=flavianna&show_icons=true&hide_border=true&text_color=38B2AC&title_color=ED5659&bg_color=0D1017&icon_color=38B2AC&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavianna&layout=compact&langs_count=7&hide_border=true&text_color=38B2AC&title_color=ED5659&bg_color=0D1017&icon_color=ED5659"/>
 </div>

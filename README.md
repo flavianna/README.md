@@ -30,9 +30,8 @@ Atualmente, estudo na Trybe e faço faculdade de Sistemas para Internet, onde ap
 
 ## Contato
 
-Linkedin: https://www.linkedin.com/in/flavianna/
-
-Email: flaviannabezerra@gmail.com
+- Linkedin: https://www.linkedin.com/in/flavianna/
+- Email: flaviannabezerra@gmail.com
 
 <div align="center">
   <a href="https://github.com/flavianna">

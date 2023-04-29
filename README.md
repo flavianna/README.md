@@ -1,9 +1,9 @@
-<img src="https://live.staticflickr.com/65535/52708889514_f413b9b902_b.jpg">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2684bf169493279.644d785b2d70b.png">
 
 
 # Flavianna Bezerra
 <div>
-  <img src="https://live.staticflickr.com/65535/52708691406_9cce78e4cd_b.jpg" width='400px' align='right' alt="Computador iuriCode">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/289157169493279.644d785b2f026.png" width='400px' align='right' alt="Computador iuriCode">
 </div>
 
 

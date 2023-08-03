@@ -20,12 +20,16 @@ Atualmente, estudo na Trybe e faço faculdade de Sistemas para Internet, onde ap
 ![JavaScript](https://img.shields.io/badge/-JavaScript-38B2AC?style=flat-square&logo=javascript&&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-38B2AC?style=flat-square&logo=jest&logoColor=white)
 ![React](https://img.shields.io/badge/-React-38B2AC?style=flat-square&logo=react&logoColor=white)
-![React Router](https://img.shields.io/badge/-React%20Router-38B2AC?style=flat-square&logo=react-router&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-38B2AC?style=flat-square&logo=testinglibrary&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-38B2AC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-38B2AC?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-38B2AC?style=flat-square&logo=linux&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Linux-38B2AC?style=flat-square&logo=linux&logoColor=white)
+![MySQL](https://img.shields.io/badge/-Linux-38B2AC?style=flat-square&logo=linux&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Linux-38B2AC?style=flat-square&logo=linux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-Linux-38B2AC?style=flat-square&logo=linux&logoColor=white)
+
 
 
 ## Contato

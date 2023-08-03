@@ -25,10 +25,10 @@ Atualmente, estudo na Trybe e faço faculdade de Sistemas para Internet, onde ap
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-38B2AC?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-38B2AC?style=flat-square&logo=linux&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node-dot-js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-38B2AC?style=flat-square&logo=node-dot-js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-38B2AC?style=flat-square&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-38B2AC?style=flat-square&logo=sequelize&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-38B2AC?style=flat-square&logo=typescript&logoColor=white)
 
 
 

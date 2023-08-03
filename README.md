@@ -29,6 +29,8 @@ Atualmente, estudo na Trybe e faço faculdade de Sistemas para Internet, onde ap
 ![MySQL](https://img.shields.io/badge/-MySQL-38B2AC?style=flat-square&logo=mysql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-38B2AC?style=flat-square&logo=sequelize&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-38B2AC?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-38B2AC?style=flat-square&logo=docker&logoColor=white)
+
 
 
 
